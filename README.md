@@ -14,7 +14,7 @@ In this project, you will implement the K-means clustering algorithm for cluster
 
 ## Tools & Libraries
 
-- **Python**
+- **Python** - primary programming language
 - **NumPy** – for numerical computation  
 - **Pandas** – for data manipulation  
 - **Matplotlib** – for visualizations  
