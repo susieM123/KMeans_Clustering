@@ -1,28 +1,6 @@
 # K-Means Clustering
 ### Susie Mueller
 
-## Directory Layout
-├── Lab04a
-│   ├── Lab04a.ipynb
-│   └── data
-│       └── happy.csv
-├── Lab04b
-│   └── Lab04b.ipynb
-├── Lab04c
-│   ├── Lab04c.ipynb
-│   └── img
-│       └── lorikeet.png
-├── data
-│   ├── iris.csv
-│   ├── lfwcrop_ids.txt
-│   └── mystery.csv
-├── data_transformations.ipynb
-├── data_transformations.py
-├── pca.ipynb
-├── pca.py
-├── pca_analysis.ipynb
-└── scatter3d.py
-
 7 directories, 14 files
 
 ## Objectives
